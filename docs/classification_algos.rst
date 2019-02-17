@@ -42,7 +42,10 @@ Support Vector Machines
 
 Be the first to `contribute! <https://github.com/bfortuner/ml-cheatsheet>`__
 
+Naive Bayes
+=======================
 
+Be the first to `contribute! <https://github.com/bfortuner/ml-cheatsheet>`__
 
 .. rubric:: References
 
